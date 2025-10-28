@@ -16,7 +16,7 @@ UI
         Game name, created date and last saved date 
       Note: for load game selection box, default is the top (last saved game) double 
     Double click the item in selection box will also load game.
-    “Load game” will load the main battle page with saved map, units, facing and their location, any terrain item and location …
+    “Load game” will load the main battle page with saved map, units, facing and their location, any terrain item and location
 
   Right is QuiVER
     Background is a view of star field. Buttons and selection box listed in Quitter, function the same.
