@@ -68,8 +68,7 @@ UI
         Images (array): what to display on token. may have custom images or point to default set determined by type. May be the most exiting part of the whole process.
 
 NOTE:   potencially an image manipulating page is required, to splice image dividing single Hero/Monster image to multiple to fit in morale and icon slot.
-  
-
+NOTE: The image manipulator can be on in the right panel.
 
   ==Ship Library page==
   Titled bar: Shipyard
